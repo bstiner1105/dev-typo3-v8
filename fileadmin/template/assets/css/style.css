@@ -382,5 +382,10 @@ td {
 	General styles
 \***************************************************************/
 body {
-	background:#222;
+	background:#d2c6ef;
+	color:#000;
+}
+
+h1 {
+	font-size:3rem;
 }
